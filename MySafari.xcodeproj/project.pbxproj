@@ -58,12 +58,12 @@
 		17DFDFFA1BBC687F00315EBA /* MySafari */ = {
 			isa = PBXGroup;
 			children = (
-				17DFDFFE1BBC687F00315EBA /* AppDelegate.h */,
-				17DFDFFF1BBC687F00315EBA /* AppDelegate.m */,
+				17DFE0041BBC687F00315EBA /* Main.storyboard */,
 				17DFE0011BBC687F00315EBA /* ViewController.h */,
 				17DFE0021BBC687F00315EBA /* ViewController.m */,
-				17DFE0041BBC687F00315EBA /* Main.storyboard */,
 				17DFE0071BBC687F00315EBA /* Assets.xcassets */,
+				17DFDFFE1BBC687F00315EBA /* AppDelegate.h */,
+				17DFDFFF1BBC687F00315EBA /* AppDelegate.m */,
 				17DFE0091BBC687F00315EBA /* LaunchScreen.storyboard */,
 				17DFE00C1BBC687F00315EBA /* Info.plist */,
 				17DFDFFB1BBC687F00315EBA /* Supporting Files */,
@@ -299,6 +299,7 @@
 				17DFE0111BBC687F00315EBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
